@@ -1,0 +1,6 @@
+Things to simulate:
+A. position: (x,y)
+B. velocity: (vx,vy)
+C. disturbance
+D. target (destination)
+E. correction system: our AI

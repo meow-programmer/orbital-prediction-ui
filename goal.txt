@@ -1,0 +1,3 @@
+Goal:
+Automatically position the unmanned satellite to a specific starboard, increase or decrease velocity within certain time intervals. Instead of manual correction, 
+the AI will attempt to find the best possible method and correct.
